@@ -1,0 +1,7 @@
+# platinopharma — crawler directives
+User-agent: *
+Allow: /
+
+# Auth-gated admin console pages are also marked noindex via meta tags.
+
+Sitemap: https://project--ee4996fd-0d3c-4987-8e54-47b0619b65b6.lovable.app/sitemap.xml
